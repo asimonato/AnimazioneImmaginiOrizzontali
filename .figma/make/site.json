@@ -1,0 +1,11 @@
+{
+  "title": "Wolf Haus - Design Personalizzato",
+  "description": "Interactive horizontal image carousels scroll smoothly with mouse wheel input, offering a premium, continuous, and natural animation experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
